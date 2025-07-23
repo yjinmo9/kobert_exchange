@@ -46,12 +46,12 @@
 
 - 폴더 구조:
 
-├── 학술교류제_최종.ipynb
-├── 교환후기_데이터.xlsx
-├── stopwords.txt
-├── images/
-│ └── wordcloud_예시.png
-└── README.md
+ㄴ 학술교류제_최종.ipynb
+ㄴ 교환후기_데이터.xlsx
+ㄴ stopwords.txt
+ㄴ images/
+  ㄴ wordcloud_예시.png
+ㄴ README.md
 
 
 ---
